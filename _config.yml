@@ -2,3 +2,4 @@ exclude:
   - Rakefile
   - Gemfile
   - Gemfile.lock
+  - mise.toml
